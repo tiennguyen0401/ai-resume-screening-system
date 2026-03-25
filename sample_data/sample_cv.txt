@@ -1,0 +1,1 @@
+I am a final-year Artificial Intelligence student with experience in Python, SQL, Machine Learning, Deep Learning, NLP, Pandas, NumPy, Scikit-learn, and Streamlit. I have built projects on resume screening, sentiment analysis, and chatbot systems. Familiar with Git, Linux, and basic Docker.

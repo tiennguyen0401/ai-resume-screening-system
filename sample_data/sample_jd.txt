@@ -1,0 +1,1 @@
+We are looking for an AI Intern Engineer with experience in Python, SQL, Machine Learning, NLP, HuggingFace, LangChain, Docker, AWS, and Git. Candidates with experience deploying AI applications and building NLP systems are preferred.
