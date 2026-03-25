@@ -14,9 +14,13 @@ The system helps users understand how well their profile matches a role by showi
 
 ## Demo
 
-Add your screenshot inside the `assets/` folder and display it here.
+### Main Interface
 
-![Demo](assets/demo.png)
+![Demo 1](assets/demo_1.png)
+
+### Analysis Result
+
+![Demo 2](assets/demo_2.png)
 
 ## Features
 
@@ -47,7 +51,8 @@ resume-screening-ai/
 │   ├── sample_cv.txt
 │   └── sample_jd.txt
 └── assets/
-    └── demo.png
+    ├── demo_1.png
+    └── demo_2.png
 ```
 
 ## Installation
